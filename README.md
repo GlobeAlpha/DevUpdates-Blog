@@ -10,6 +10,5 @@ List of Posts
 - Posts
 
 Tech Stack
-
--React 
- -Router Dom.
+ -  React.
+ -  Router Dom.
