@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/DevUpdates-Blog/static/css/main.0ce3c41e.css",
-    "main.js": "/DevUpdates-Blog/static/js/main.a85ed09e.js",
+    "main.js": "/DevUpdates-Blog/static/js/main.f39cdc5a.js",
     "static/js/787.a33aa341.chunk.js": "/DevUpdates-Blog/static/js/787.a33aa341.chunk.js",
     "index.html": "/DevUpdates-Blog/index.html",
     "main.0ce3c41e.css.map": "/DevUpdates-Blog/static/css/main.0ce3c41e.css.map",
-    "main.a85ed09e.js.map": "/DevUpdates-Blog/static/js/main.a85ed09e.js.map",
+    "main.f39cdc5a.js.map": "/DevUpdates-Blog/static/js/main.f39cdc5a.js.map",
     "787.a33aa341.chunk.js.map": "/DevUpdates-Blog/static/js/787.a33aa341.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ce3c41e.css",
-    "static/js/main.a85ed09e.js"
+    "static/js/main.f39cdc5a.js"
   ]
 }
