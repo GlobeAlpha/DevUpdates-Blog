@@ -54,7 +54,6 @@ export default class Retro_1 extends React.Component
             <pre>
                 <code className="Front_snippet" >
                     {
-
 `.ShowCaseCard--front
    {
     position: absolute;
