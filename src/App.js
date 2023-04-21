@@ -24,7 +24,7 @@ function App() {
                <Route path="/Project_Intro" element ={<ProjectIntro />} />
           
                <Route path="/First_Sprint" element={<FirstSprint />} /> 
-             {/* <Route path="/Second_Sprint" element={<SecondSprint />} /> */}
+             <Route path="/Second_Sprint" element={<SecondSprint />} />
           {/* <Route path="/First_Retro" element={<Retro_1 />} /> */}
           
           {/* <Route path="/Third_Sprint" element ={<ThirdSprint />} /> */}
