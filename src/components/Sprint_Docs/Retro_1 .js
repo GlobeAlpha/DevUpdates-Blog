@@ -1,10 +1,10 @@
 import React from 'react';
 //import Post   from "../Post.js";
-const PreviousDesign = require("../assets/PreviousDesign.png")
-const NewDesign = require("../assets/NewDesign.png")
-const Frame1 = require("../assets/Frame1.png");
-const Frame2 = require("../assets/Frame2.png");
-const Frame4 = require("../assets/Frame4.png");
+//const PreviousDesign = require("../assets/PreviousDesign.png")
+//const NewDesign = require("../assets/NewDesign.png")
+//const Frame1 = require("../assets/Frame1.png");
+//const Frame2 = require("../assets/Frame2.png");
+//const Frame4 = require("../assets/Frame4.png");
 export default class Retro_1 extends React.Component
 {
     //constructor(props)
@@ -37,8 +37,8 @@ export default class Retro_1 extends React.Component
 <br />
 <p style={{ fontWeight: 100 }}>Previous Design</p>
 <section>
-<img src={PreviousDesign} alt="Before shot of my portfolio site"  className="BeforeAfter_Screenshots" />
-<img src={NewDesign} alt="After shot of my portfolio site" className="BeforeAfter_Screenshots" />
+{/*<img src={PreviousDesign} alt="Before shot of my portfolio site"  className="BeforeAfter_Screenshots" />*/}
+{/*<img src={NewDesign} alt="After shot of my portfolio site" className="BeforeAfter_Screenshots" />*/}
 </section>
 
 <h3 style={{ fontWeight:100}} >New Design</h3>
@@ -83,9 +83,9 @@ export default class Retro_1 extends React.Component
 <p><u>Card Rotation</u></p>
 
 <p>animation</p> 
-<img className="Animation_Screenshots " src={Frame1} />
-<img className="Animation_Screenshots " src={Frame2} />
-<img className="Animation_Screenshots " src={Frame4} />
+{/*<img className="Animation_Screenshots " src={Frame1} />*/}
+{/*<img className="Animation_Screenshots " src={Frame2} />*/}
+{/*<img className="Animation_Screenshots " src={Frame4} />*/}
 <p>This animation incrementally rotates the card from 45 degress to 180 degress giving impression of Card rotation.</p>
 
 
