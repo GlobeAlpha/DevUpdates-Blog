@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/DevUpdates-Blog/static/css/main.655c223d.css",
-    "main.js": "/DevUpdates-Blog/static/js/main.1d16f6bf.js",
+    "main.css": "/DevUpdates-Blog/static/css/main.554e9e68.css",
+    "main.js": "/DevUpdates-Blog/static/js/main.4d80d423.js",
     "static/js/787.a33aa341.chunk.js": "/DevUpdates-Blog/static/js/787.a33aa341.chunk.js",
+    "static/media/FirstFrame.png": "/DevUpdates-Blog/static/media/FirstFrame.dd6cdaa7553953991fe6.png",
+    "static/media/PreviousDesign.png": "/DevUpdates-Blog/static/media/PreviousDesign.de411d42d759950b6101.png",
+    "static/media/LastFrame.png": "/DevUpdates-Blog/static/media/LastFrame.55fa2f0250a12d29ae0f.png",
+    "static/media/NewDesign.png": "/DevUpdates-Blog/static/media/NewDesign.b0c48c59c3461efaa6fd.png",
+    "static/media/SecondFrame.png": "/DevUpdates-Blog/static/media/SecondFrame.34dedb9c255e447ca7b5.png",
     "index.html": "/DevUpdates-Blog/index.html",
-    "main.655c223d.css.map": "/DevUpdates-Blog/static/css/main.655c223d.css.map",
-    "main.1d16f6bf.js.map": "/DevUpdates-Blog/static/js/main.1d16f6bf.js.map",
+    "main.554e9e68.css.map": "/DevUpdates-Blog/static/css/main.554e9e68.css.map",
+    "main.4d80d423.js.map": "/DevUpdates-Blog/static/js/main.4d80d423.js.map",
     "787.a33aa341.chunk.js.map": "/DevUpdates-Blog/static/js/787.a33aa341.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.655c223d.css",
-    "static/js/main.1d16f6bf.js"
+    "static/css/main.554e9e68.css",
+    "static/js/main.4d80d423.js"
   ]
 }
